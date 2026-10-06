@@ -1,0 +1,29 @@
+
+/* Cài đặt chung cho trang web */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #333333;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Tiêu đề chính */
+h1 {
+    color: #007bff;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+/* Đoạn văn bản */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555555;
+}
+
+/* Hiệu ứng khi di chuột vào tiêu đề */
+h1:hover {
+    color: #ff6600;
+}
